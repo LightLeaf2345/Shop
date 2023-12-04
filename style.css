@@ -1,0 +1,18 @@
+body
+{
+    background-color: black;
+    color: blue;
+}
+.container .hh-header .position-relative h1
+{
+    padding-top: auto;
+    padding-left: auto;
+}
+@media (max-width: 600px) 
+{
+    .container
+    {
+        width: auto;
+        height: auto;
+    }
+}
